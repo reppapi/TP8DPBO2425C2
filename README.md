@@ -39,8 +39,6 @@ Saya **Repa Pitriani** dengan NIM **2402499** mengerjakan Tugas Praktikum 8 dala
 └── README.md
 ```
 
----
-
 ## Penjelasan Arsitektur MVC
 
 Proyek ini memisahkan logika program menjadi tiga komponen utama:
@@ -64,8 +62,6 @@ Bagian ini menghubungkan Model dan View serta menangani logika bisnis.
 - **controllers/LecturerController.php**: Mengatur alur data dosen.  
 - **controllers/CourseController.php**: Mengatur alur data mata kuliah, termasuk memanggil `LecturerModel` untuk mengisi dropdown dosen pada halaman tambah/edit.
 
----
-
 ## Fitur Utama
 
 - **Struktur MVC**: Kode lebih bersih dan terstruktur sesuai standar industri.  
@@ -76,8 +72,6 @@ Bagian ini menghubungkan Model dan View serta menangani logika bisnis.
   - Menampilkan daftar mata kuliah beserta Nama Dosen Pengajar  
   - Dynamic Dropdown: Pilihan dosen diambil langsung dari database  
 - **Desain Responsif**: Menggunakan Bootstrap 5 untuk tampilan yang rapi dan modern
-
----
 
 ## Dokumentasi
 

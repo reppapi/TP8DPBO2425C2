@@ -83,4 +83,5 @@ Bagian ini menghubungkan Model dan View serta menangani logika bisnis.
 
 Klik thumbnail di bawah untuk menonton demo program:  
 
-[![Demo Program](https://img.youtu.be/hq6BUdu09t4/0.jpg)](https://youtu.be/hq6BUdu09t4)
+[![Demo Program](https://img.youtube.com/vi/hq6BUdu09t4/0.jpg)](https://youtu.be/hq6BUdu09t4)
+
